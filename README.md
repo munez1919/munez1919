@@ -17,5 +17,8 @@
   📌 **Технологии:** Linux, PostgreSQL, Docker, Jenkins, CI/CD, Kubernetes, Telegram API  
   📌 **Описание:** Проект по мониторингу серверов с отправкой уведомлений в Telegram.  
 
+## 📊 GitHub Статистика:
+![munez1919's GitHub Stats](https://github-readme-stats.vercel.app/api?username=munez1919&show_icons=true&theme=radical)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/munez1919)
 
